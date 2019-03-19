@@ -11,7 +11,7 @@
     "url": "git+https://github.com/plantyoon/copy-postfix.git"
   },
   "author": "plantyoon",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/plantyoon/copy-postfix/issues"
   },
